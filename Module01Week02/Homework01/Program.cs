@@ -51,7 +51,6 @@ namespace Homework01
                     break;
             }
 
-
             DateTime dataNasterii = new DateTime(anul, luna, ziua);
             DateTime astazi = DateTime.Today;
 
